@@ -1,13 +1,13 @@
-# Ghost Eye
-Ghost Eye - Information Gathering Tool
+# God's EYE
+God's EYE - Information Gathering Tool
 <div>
 
-Ghost Eye is an Information Gathering Tool I made in python 3. 
-To run Ghost Eye, it only needs a domain or ip.
-Ghost Eye can work with any Linux distros if they support Python 3.
+God's EYE is an Information Gathering Tool I made in python 3. 
+To run God's EYE, it only needs a domain or ip.
+God's EYE can work with any Linux distros if they support Python 3.
 
 
-# Ghost Eye gathers information data such as:
+# God's EYE gathers information data such as:
 
 1.   Whois Lookup
 2.   DNS Lookup
@@ -50,7 +50,7 @@ You have to install Nmap and EtherApe too:
   
 
 # Use:
-* python3 ghost_eye.py
+* python3 gods_eye.py
 
 
 <div>
